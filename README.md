@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📚 Currently studying Computer Science and Mathematics at the University of Toronto
 - 🗃 Looking to gain experience and internship opportunities
 - 📖 Working towards acquiring Java SE 17 Developer Certification
--⚡Currently working on developing an app
+- ⚡Currently working on developing an app
 
 
