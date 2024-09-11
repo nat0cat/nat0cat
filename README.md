@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-# About Me
+
 🌱 Aspiring to build a career in software development, cloud computing, or systems architecture
 📚 Currently studying Computer Science and Mathematics at the University of Toronto
 🗃 Looking to gain experience and internship opportunities
